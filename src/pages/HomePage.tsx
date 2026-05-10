@@ -78,15 +78,15 @@ export default function HomePage() {
               <p>Practical Earned Value Management</p>
             </Link>
             
-            <div>
+            <div className="link-card">
               <h4>Data Science</h4>
               <p>Python for Construction</p>
             </div>
-            <div>
+            <div className="link-card">
               <h4>Certifications</h4>
               <p>Reality vs Hype Analysis</p>
             </div>
-            <div>
+            <div className="link-card">
               <h4>Book Reviews</h4>
               <p>Curated Professional Reading</p>
             </div>
